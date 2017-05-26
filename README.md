@@ -2,11 +2,11 @@
 
 > 一个vue的单页项目模板
 
-1.添加scss的编译，并且自动补全前缀
-2.添加FontAwesome
-3.添加ElementUI
-4.添加了vuex状态管理
-5.使用Karma进行单元测试
+1. 添加scss的编译，并且自动补全前缀
+2. 添加FontAwesome
+3. 添加ElementUI
+4. 添加了vuex状态管理
+5. 使用Karma进行单元测试
 
 ## 项目结构
 ``` bash
