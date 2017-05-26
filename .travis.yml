@@ -1,1 +1,5 @@
-npm run build
+language: node_js
+node_js:
+  - "iojs"
+  - "6.9.1"
+script: npm run dev
