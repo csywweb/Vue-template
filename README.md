@@ -1,9 +1,41 @@
-# agent-oem
+# Vue-template   [![Build Status](https://travis-ci.org/csywweb/Vue-template.svg?branch=master)](https://travis-ci.org/csywweb/Vue-template)
 
-> A Vue.js project
+> 一个vue的单页项目模板
+
+1.添加scss的编译，并且自动补全前缀
+2.添加FontAwesome
+3.添加ElementUI
+4.添加了vuex状态管理
+5.使用Karma进行单元测试
+
+## 项目结构
+``` bash
+    template
+      |---build
+      |---config
+      |---node_modules
+      |---src
+        |---assets 资源
+        |---components 组件
+        |---router 路由
+        |---store 状态管理
+        |---model 工具类
+        |---App.vue 
+        |---main.js
+      |---static 静态文件
+      |---test  测试
+      |---.babelrc 
+      |---.gitignore
+      |---.postcssrc.js
+      |---.travis.yml CL工具
+      |---index.html 入口页面
+      |---package.json 项目配置
+      |---README.md
+        
+```
+
 
 ## Build Setup
-
 ``` bash
 # install dependencies
 npm install
