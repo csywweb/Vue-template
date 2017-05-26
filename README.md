@@ -1,6 +1,6 @@
 # Vue-template   [![Build Status](https://travis-ci.org/csywweb/Vue-template.svg?branch=master)](https://travis-ci.org/csywweb/Vue-template)
 
-> 一个vue的单页项目模板,扩展了vue-cli,增加常用配置项
+> 一个vue的单页项目模板,扩展了vue-cli,增加常用配置项:car:
 
 1. 添加scss的编译，并且自动补全前缀
 2. 添加FontAwesome
